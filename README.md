@@ -1,10 +1,10 @@
 
 								LOADING 2%
 	[//..............................................................................................................] 
-							  Learning to program...
+							  Learning the fundamentals...
         
-**Time spent:** 3 weeks
+**Time spent:** 5 weeks
 
 **Estimated time:** 1~2 year(s)
 
-**Last update:** 28/05/2022
+**Last update:** 14/06/2022
