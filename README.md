@@ -1,10 +1,10 @@
 
-							   LOADING 7%
-	[/////........................................................................................................] 
-						    Learning the fundamentals...
+							   LOADING 2,8%
+	[///..........................................................................................................] 
+						    Learning the fundamentals (in C)...
         
-**Time spent:** 6 weeks
+**Time spent:** 1 month
 
-**Estimated time:** 1~2 year(s)
+**Estimated time:** 3 year(s)
 
-**Last update:** 16/06/2022
+**Last update:** 08/09/2023
