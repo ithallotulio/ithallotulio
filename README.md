@@ -1,4 +1,4 @@
-### Bem-vindo, sou Ithallo Tulio :)
+### Bem-vindo, sou Ithallo Tulio
 
 - 📘 Estudo ADS na Fatec Campinas (2023 - 2026)
 - 🛡️ Entusiasta da área de segurança da informação
